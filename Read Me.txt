@@ -1,0 +1,8 @@
+1. Navbar, Hero, Banner, Slider has been designed.
+2. Theme changed to blue.
+3. Partners section is now ready.
+4. Home page is almost completed.
+5. Mission page is ready.
+6. Services page is ready.
+7. About Us page is ready.
+8. Contact us page is ready.
